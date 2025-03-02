@@ -15,7 +15,7 @@ class InfiniteImpactBombs(bauiv1lib.party.PartyWindow):
             scale=0.7,
             label="Toggle Impact Bombs",
             button_type="square",
-            position=(self._width - 210, self._height - 150),
+            position=(self._width - 410, self._height - 50),
             on_activate_call=self._toggle_bombs
         )
 
