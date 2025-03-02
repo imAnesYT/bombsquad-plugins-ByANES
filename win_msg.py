@@ -127,7 +127,7 @@ class WinMSGSettings:
 
 # ba_meta export plugin
 
-class ByLIGHT(babase.Plugin):
+class ByANES(babase.Plugin):
     def __init__(self):
         bauiv1lib.party.PartyWindow = WinMSG
 
